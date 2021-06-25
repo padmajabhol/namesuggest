@@ -1,16 +1,27 @@
 import React from 'react';
 import './Header.css';
 
-const Header = () => {
+
+
+const Header = ({ headTitle, headerExpanded }) => {
     return (
         <div className="head-container">
             <img
                 src={require("../../assets/image.svg").default}
-                className="head-image"
+                className={`head-image ${headerExpanded
+                    ? 'head-image-expanded'
+                    : 'head-image-contacted'
+                    }`}
                 alt="headerImage"
             />
-            <h1 className="head-text">Name Suggest!</h1>
-
+            <h1
+                className={`head-text ${headerExpanded
+                    ? 'head-text-expanded'
+                    : 'head-text-contracted'
+                    }`}
+            >
+                {headTitle}
+            </h1>
         </div>
     );
 };
