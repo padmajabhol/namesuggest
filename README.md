@@ -1,4 +1,4 @@
-# Namesuggest <img  src="https://raw.githubusercontent.com/padmajabhol/namesuggest/master/public/assets/favicon.ico">
+# Name Suggest <img  src="https://raw.githubusercontent.com/padmajabhol/namesuggest/master/public/assets/favicon.ico">
 
 <img align="center" width="100%" src="https://github.com/padmajabhol/namesuggest/blob/master/public/assets/namesuggest.png">
 
