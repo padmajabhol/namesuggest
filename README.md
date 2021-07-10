@@ -1,4 +1,9 @@
-# Name Suggest <img  src="https://raw.githubusercontent.com/padmajabhol/namesuggest/master/public/assets/favicon.ico">
+
+
+<h1 align='center'> Name suggest<img  src="https://raw.githubusercontent.com/padmajabhol/namesuggest/master/public/assets/favicon.ico"></h1>
+<p align='center'>
+<img src='http://ForTheBadge.com/images/badges/built-by-developers.svg'>&nbsp;<img src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
+</p>
 
 <img align="center" width="100%" src="https://github.com/padmajabhol/namesuggest/blob/master/public/assets/namesuggest.png">
 
