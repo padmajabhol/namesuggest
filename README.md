@@ -30,3 +30,7 @@ npm install
 ```bash
 npm start
 ```
+
+## Libraries used
+
+https://www.npmjs.com/package/@rstacruz/startup-name-generator
