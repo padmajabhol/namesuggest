@@ -9,6 +9,8 @@
 
 Generate a name for your next project using Name Suggest. Made with <b>React js</b>💜
 
+Type in your favourite word in the input box and it will suggest a name related to it.
+
 This was made with using some basic concepts of reacts like useState hooks and props. Feel free to raise issues and contribute in whichever way you like.
 
 ## Setup
@@ -17,19 +19,25 @@ This was made with using some basic concepts of reacts like useState hooks and p
 ```bash
 git clone https://github.com/padmajabhol/namesuggest.git
 ```
+</br>
+
   ##### Move to the desired folder
 ```bash
 cd \namesuggest
 ```
+</br>
+
   ##### To install the dependencies, simply write
 ```bash
 npm install
 ```
+</br>
 
   ##### To run the app, simply write
 ```bash
 npm start
 ```
+</br>
 
 ## Libraries used
 
