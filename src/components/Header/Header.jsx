@@ -5,7 +5,7 @@ import './Header.css';
 
 const Header = ({ headTitle, headerExpanded }) => {
     return (
-        <div className="head-container">
+       wsdqwdqw
             <img
                 src={require("../../assets/image.svg").default}
                 className={`head-image ${headerExpanded
